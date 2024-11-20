@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my one page resume [here](https://github.com/azamikram/azamikram.github.io/files/resume.pdf).
+You can find my one page resume [here](https://github.com/azamikram/azamikram.github.io/blob/master/files/resume.pdf).
 
 <!-- Education
 ======
